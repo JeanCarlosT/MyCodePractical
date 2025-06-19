@@ -22,7 +22,7 @@ function App() {
         <input
           type="text"
           name="nombre"
-          placeholder="Tu nombre"
+          placeholder="Tu nombre es importante para nosotros"
           value={form.nombre}
           onChange={handleChange}
         />
